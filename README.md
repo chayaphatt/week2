@@ -24,5 +24,5 @@
 
 ## ## How to View
 
-สามารถเข้าชมผลงานเว็บไซต์ผ่านลิงก์ออนไลน์:
+1. ดูผลงานออนไลน์ผ่านหน้าเว็บจริง
 👉 **[https://chayaphatt.github.io/week2/](https://chayaphatt.github.io/week2/)**
